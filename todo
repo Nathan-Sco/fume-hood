@@ -16,7 +16,7 @@ example_project
     ├── example_pcb.kicad_pro
     └── example_pcb.kicad_sch
 
-make fan
+~make fan~
 make fan inclosure
 make it work
 make the thing
