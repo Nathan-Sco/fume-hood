@@ -1,0 +1,23 @@
+setup like this
+
+example_project
+├── README.md
+├── assets
+│   ├── logo.png
+│   └── screenshot.png
+├── cad
+│   └── example_project_full_cad.step
+├── firmware
+│   ├── Makefile
+│   └── firmware.c
+└── pcb
+    ├── example_pcb.kicad_pcb
+    ├── example_pcb.kicad_prl
+    ├── example_pcb.kicad_pro
+    └── example_pcb.kicad_sch
+
+make fan
+make fan inclosure
+make it work
+make the thing
+uhhh idk
